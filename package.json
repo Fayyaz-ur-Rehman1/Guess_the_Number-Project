@@ -1,0 +1,23 @@
+{
+  "name": "guess_the_number-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fayyaz-ur-Rehman1/Guess_the_Number-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fayyaz-ur-Rehman1/Guess_the_Number-Project/issues"
+  },
+  "homepage": "https://github.com/Fayyaz-ur-Rehman1/Guess_the_Number-Project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

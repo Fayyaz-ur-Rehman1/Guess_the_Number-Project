@@ -15,9 +15,9 @@ btn.addEventListener('click', () => {
     }
     else if (input.value < ramdomNum) {
         prargraph.innerHTML = "कृपया उच्च संख्या चुनें"
-        prargraph.style.color = ''
+        prargraph.style.color = 'chartreuse'
     } else if (input.value > ramdomNum) {
         prargraph.innerHTML = "कृपया कम संख्या चुनें"
-        prargraph.style.color = 'rgb(69, 149, 69)'
+        prargraph.style.color = 'chartreuse'
     }
 })
